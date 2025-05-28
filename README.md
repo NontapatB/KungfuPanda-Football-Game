@@ -110,7 +110,7 @@ You can test the API using Postman by importing the collection from Backend-Exer
 Alternatively, here is a preview of how the collection looks in Postman
 
 
-# Add User method post path /user
+### Add User method post path /user
 
 ![image](https://github.com/user-attachments/assets/7d7255f3-c312-467e-9529-dd6fb9e2d637)
 
@@ -120,7 +120,7 @@ response
 
 
 
-# Add another User method post path /user
+### Add another User method post path /user
 
 ![image](https://github.com/user-attachments/assets/706215af-80a1-4ef6-93aa-9f3028f8273e)
 
@@ -130,7 +130,7 @@ response
 
 
 
-# User login method post path /login
+### User login method post path /login
 
 ![image](https://github.com/user-attachments/assets/788defea-5d52-4a8c-bf5a-951c2a25ca0a)
 
@@ -140,7 +140,7 @@ reponse
 
 
 
-# Get all users method get path /users
+### Get all users method get path /users
 
 ![image](https://github.com/user-attachments/assets/6de46f6e-a2b0-4e2c-97cb-2032a47e5a8a)
 
@@ -150,7 +150,7 @@ response
 
 
 
-# Get user by id method get path /users/:id
+### Get user by id method get path /users/:id
 
 ![image](https://github.com/user-attachments/assets/18e7b061-d834-4c87-9080-d5732dda3a5b)
 
@@ -160,7 +160,7 @@ response
 
 
 
-# Transfer balance between user with token method post path /transfer
+### Transfer balance between user with token method post path /transfer
 
 ![image](https://github.com/user-attachments/assets/5ad7038b-29fe-46d8-b5ca-a039c1b5ddf4)
 
