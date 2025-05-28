@@ -109,6 +109,7 @@ You can test the API using Postman by importing the collection from Backend-Exer
 
 Alternatively, here is a preview of how the collection looks in Postman
 
+
 Add User method post path /user
 
 ![image](https://github.com/user-attachments/assets/7d7255f3-c312-467e-9529-dd6fb9e2d637)
@@ -116,6 +117,8 @@ Add User method post path /user
 response
 
 ![image](https://github.com/user-attachments/assets/e091dc93-4cc2-4d43-a340-47ff11a80abc)
+
+
 
 Add another User method post path /user
 
@@ -125,6 +128,8 @@ response
 
 ![image](https://github.com/user-attachments/assets/c075dc0c-bcbd-401c-9d73-74bf5df139e3)
 
+
+
 User login method post path /login
 
 ![image](https://github.com/user-attachments/assets/788defea-5d52-4a8c-bf5a-951c2a25ca0a)
@@ -132,6 +137,8 @@ User login method post path /login
 reponse
 
 ![image](https://github.com/user-attachments/assets/f22b77e3-6ba2-43c3-8ca3-fd0288e43f89)
+
+
 
 Get all users method get path /users
 
@@ -141,6 +148,8 @@ response
 
 ![image](https://github.com/user-attachments/assets/67448174-f8d6-49b7-b7f4-1b13b24e1cb6)
 
+
+
 Get user by id method get path /users/:id
 
 ![image](https://github.com/user-attachments/assets/18e7b061-d834-4c87-9080-d5732dda3a5b)
@@ -148,6 +157,8 @@ Get user by id method get path /users/:id
 response
 
 ![image](https://github.com/user-attachments/assets/5437b857-60ec-4000-812f-92875dd3b349)
+
+
 
 Transfer balance between user with token method post path /transfer
 
